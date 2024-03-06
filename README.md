@@ -8,6 +8,5 @@ The Optimal Study Plan Suggestion is designed to assist students in optimizing t
 <h3>How It Works</h3>
 The application operates on a straightforward yet powerful principle: it asks students to input their midterm marks for each subject, the hours they have already dedicated to studying each subject, and their total available hours for future study. Using this information, it employs a heuristic approach, inspired by <b>greedy algorithms</b>, to allocate study hours. This method prioritizes subjects based on the potential for improvement, suggesting that students invest more time in areas where they are currently underperforming.
 </br></br>
-<img width="1440" alt="image" src="https://github.com/guryuvraj/Application_of_Algorithms/assets/98197801/c8cd05ef-eb9f-41fc-97fa-f2c291d6fcce">
 
 Others applications of algorithms are in development..
